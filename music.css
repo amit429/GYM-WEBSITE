@@ -1,0 +1,150 @@
+body{
+   display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image:url(music/10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+p{
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: 300;
+    margin-left: 550px;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;
+}
+
+main{
+    width: 90%;
+    height: 550px;
+    margin: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap:wrap;
+}
+
+div{
+   
+    width: 25%;
+    height: 150px;
+    border: 1px solid black;
+    
+}
+
+.a{
+    background-image:url(music/1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+    border-radius: 20px;
+    cursor: pointer;
+}
+.a:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+.b{
+    background-image: url(music/2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.b:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+.c{
+    background-image: url(music/3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.c:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+.d{
+    background-image:url(music/4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.d:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+.e{
+    background-image: url(music/5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.e:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+.f{
+    background-image: url(music/6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.f:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+.g{
+    background-image: url(music/7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.g:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+.h{
+    background-image: url(music/8.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.h:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+.i{
+    background-image: url(music/9.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+     border-radius: 20px;
+    cursor: pointer;
+}
+.i:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}
+
+
